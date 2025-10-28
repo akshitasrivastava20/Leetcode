@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/akshitasrivastava20/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshitasrivastava20/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -35,5 +36,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
