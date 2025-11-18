@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/akshitasrivastava20/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/akshitasrivastava20/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
