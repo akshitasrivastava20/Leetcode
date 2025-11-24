@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshitasrivastava20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
@@ -168,9 +169,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshitasrivastava20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/akshitasrivastava20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
