@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/akshitasrivastava20/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
 | [1470-shuffle-the-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
 | [1970-sorting-the-sentence](https://github.com/akshitasrivastava20/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Counting
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 ## Sliding Window
 |  |
 | ------- |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/akshitasrivastava20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
