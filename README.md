@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0283-move-zeroes) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akshitasrivastava20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitasrivastava20/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/akshitasrivastava20/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/akshitasrivastava20/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
