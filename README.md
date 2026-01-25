@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/akshitasrivastava20/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/akshitasrivastava20/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/akshitasrivastava20/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/akshitasrivastava20/Leetcode/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/akshitasrivastava20/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
