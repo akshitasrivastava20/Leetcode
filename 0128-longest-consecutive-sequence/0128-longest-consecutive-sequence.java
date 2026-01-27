@@ -1,17 +1,18 @@
-class Solution {
-    public int longestConsecutive(int[] nums) {
-        if(nums.length==0) return 0;
-        Arrays.sort(nums);
-        HashMap<Integer,Integer> mp=new HashMap<>();int f=0;
-        for(int i=0;i<nums.length;i++){
-            if(mp.containsKey(nums[i]-1)){
-                int val=mp.get(nums[i]-1);
-                f=Math.max(f,val+1);
-                mp.put(nums[i],val+1);
+class Solution{
+   public int longestConsecutive(int[] nums) {
+            Set<Integer> set = new HashSet<>();
+            for(int n : nums) {
+                set.add(n);
             }
-            else{ mp.put(nums[i],0);}
-            
-        }
-        return f+1;
-    }
-}
+            int best = 0;
+            for(int n : set) {
+                if(!set.contains(n - 1)) {  // only check for one direction
+                    int m = n + 1;
+                    while(set.contains(m)) {
+                        m++;
+                    }
+                    best = Math.max(best, m - n);
+                }
+            }
+            return best;
+        }}
