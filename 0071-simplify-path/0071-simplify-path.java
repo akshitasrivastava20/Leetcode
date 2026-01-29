@@ -1,23 +1,21 @@
 class Solution {
     public String simplifyPath(String path) {
-       List<String> lst=new ArrayList<>();
+       Stack<String> t=new Stack<>();
         String[] strs=path.split("/+");
         for(int i=0;i<strs.length;i++){
             if(strs[i].equals("..")){
-                if (!lst.isEmpty()) {
-                    lst.remove(lst.size() - 1);
-                }
+                if(!t.isEmpty())t.pop();
             }
             else if(strs[i].equals(".")||strs[i].equals("")){
                 continue;
             }
             else{
-                lst.add(strs[i]);}
+                t.push(strs[i]);}
   
         }
 
-        if(lst.size()==0) return "/";
-       String result="/"+String.join("/",lst); 
+        if(t.isEmpty()) return "/";
+       String result="/"+String.join("/",t); 
        return result;
 
     }
