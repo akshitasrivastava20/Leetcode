@@ -1,40 +1,58 @@
 class Solution {
-
-    int i = 0;
-
     public int calculate(String s) {
 
+        int n = s.length();
+        int sign = 1;
+        int ans = 0;
         Stack<Integer> t = new Stack<>();
-        char opr = '+';
-        int num = 0;
+        int i = 0;
 
-        while (i < s.length()) {
+        while (i < n) {
 
             char ch = s.charAt(i);
-            i++;
 
+            // skip spaces
+            if (ch == ' ') {
+                i++;
+                continue;
+            }
+
+            // number
             if (Character.isDigit(ch)) {
-                num = num * 10 + (ch - '0');
+                int num = 0;
+                while (i < n && Character.isDigit(s.charAt(i))) {
+                    num = num * 10 + (s.charAt(i) - '0');
+                    i++;
+                }
+                ans += num * sign;
+                continue; // 🔴 VERY IMPORTANT
             }
 
+            // operator
+            if (ch == '+') {
+                sign = 1;
+            } else if (ch == '-') {
+                sign = -1;
+            }
+
+            // opening bracket
             else if (ch == '(') {
-                num = calculate(s);   // NO substring
+                t.push(ans);
+                t.push(sign);
+                ans = 0;
+                sign = 1;
             }
 
-            if ((!Character.isDigit(ch) && ch != ' ') || i == s.length()) {
-
-                if (opr == '+') t.push(num);
-                else if (opr == '-') t.push(-num);
-
-                opr = ch;
-                num = 0;
+            // closing bracket
+            else if (ch == ')') {
+                int prevSign = t.pop();
+                int prevAns = t.pop();
+                ans = prevAns + prevSign * ans;
             }
 
-            if (ch == ')') break;  // stop current recursion
+            i++;
         }
 
-        int res = 0;
-        while (!t.isEmpty()) res += t.pop();
-        return res;
+        return ans;
     }
 }
