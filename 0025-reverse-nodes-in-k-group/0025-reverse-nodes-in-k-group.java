@@ -10,39 +10,57 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if (head == null || k == 1) return head;
-
-        ListNode dummy = new ListNode(0);
-        dummy.next = head;
-
-        ListNode prevGroup = dummy;
-
-        while (true) {
-            // check k nodes exist
-            ListNode check = prevGroup;
-            for (int i = 0; i < k; i++) {
-                check = check.next;
-                if (check == null) return dummy.next;
+        ListNode temp=head;
+         ListNode prevgroup=null;
+        while(temp!=null){
+           
+            ListNode kth=findKth(temp,k);
+            if(kth==null){
+                if(prevgroup!=null) prevgroup.next=temp;
+                break;
             }
-
-            // reverse k nodes using YOUR logic
-            ListNode prev = null;
-            ListNode curr = prevGroup.next;
-
-            for (int i = 0; i < k; i++) {
-                ListNode Next = curr.next;
-                curr.next = prev;
-                prev = curr;
-                curr = Next;
+            ListNode nextgroup=kth.next;
+            kth.next=null;
+            ListNode newhead=reverse(temp);
+           
+            if(head==temp){
+                head=newhead;
             }
+            else{
+                prevgroup.next=newhead;
+            }
+            prevgroup=temp;
+            
+             
+            temp.next=nextgroup;
+            temp=temp.next;
 
-            // reconnect
-            ListNode start = prevGroup.next; // old start, now tail
-            prevGroup.next = prev;           // connect previous group
-            start.next = curr;               // connect to next group
-
-            // move prevGroup
-            prevGroup = start;
         }
+        return head;
+
+
+
+    }
+    private ListNode reverse(ListNode head){
+        ListNode prev=null;
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode Next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=Next;
+        }
+        return prev;
+
+    }
+    private ListNode findKth(ListNode head,int k){
+        ListNode kth=head;
+        int i=0;
+        while(kth!=null&&i<k-1){
+            kth=kth.next;
+            i++;
+        }
+        return kth;
+
     }
 }
