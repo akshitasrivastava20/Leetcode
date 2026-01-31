@@ -10,34 +10,46 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null) return head;
-         k=k%len(head);
-         if (k == 0) return head;
-        while(k>0){
-            head=rotate(head);
-            k--;
+        if(head==null||head.next==null||k==0) return head;
+        
+        int n=findlength(head);
+        k=k%n;
+        if(k==0) return head;
+        ListNode br=findkth(head,n-k-1);
+        ListNode newhead=br.next;
+        br.next=null;
+        ListNode temp=newhead;
+        while(temp.next!=null){
+            temp=temp.next;
         }
-        return head;
+        temp.next=head;
+
+        return newhead;
+
+
+
+
     }
-    public ListNode rotate(ListNode head){
+    private int findlength(ListNode head){
+          ListNode temp=head;
+          int n=0;
+          while(temp!=null){
+            temp=temp.next;
+            n++;
+          }
+          return n;
+    }
+    private ListNode findkth(ListNode head,int k){
         ListNode temp=head;
-        while(temp.next.next!=null){
+        int i=0;
+        while(temp!=null&& i<k){
             temp=temp.next;
+            i++;
         }
-            temp.next.next=head;
-            head=temp.next;
-            temp.next=null;
-            return head;
+        return temp;
+    }
 
 
-    }
-    public int len(ListNode head){
-         ListNode temp=head;
-         int l=0;
-        while(temp!=null){
-            temp=temp.next;
-            l++;
-        }
-        return l;
-    }
+    
+
 }
