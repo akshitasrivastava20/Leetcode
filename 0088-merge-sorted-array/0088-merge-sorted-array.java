@@ -1,27 +1,30 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int[] l=Arrays.copyOfRange(nums1,0,m);
-        
+        int[] ans=new int[nums1.length];
         int i=0;int j=0;int k=0;
-        while(i<l.length&&j<nums2.length){
-            if(l[i]<=nums2[j]){
-                nums1[k]=l[i];
+        while(i!=m&&j!=n){
+            if(nums1[i]<=nums2[j]){
+                ans[k]=nums1[i];
                 i++;k++;
             }
             else{
-                nums1[k]=nums2[j];
-                j++;k++;
+                ans[k]=nums2[j];
+                j++;
+                k++;
             }
         }
-        while(i<l.length){
-              nums1[k]=l[i];
+        while(i<m){
+            ans[k]=nums1[i];
                 i++;k++;
         }
-        while(j<nums2.length){
-                nums1[k]=nums2[j];
-                j++;k++;
+        while(j<n){
+            ans[k]=nums2[j];
+                j++;
+                k++;
         }
-
-       
+        for(int p=0;p<ans.length;p++){
+            nums1[p]=ans[p];
+        }
+        
     }
 }
