@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/akshitasrivastava20/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/akshitasrivastava20/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/akshitasrivastava20/Leetcode/tree/master/0289-game-of-life) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akshitasrivastava20/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitasrivastava20/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/akshitasrivastava20/Leetcode/tree/master/0224-basic-calculator) |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/akshitasrivastava20/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/akshitasrivastava20/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 ## Randomized
 |  |
@@ -375,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/akshitasrivastava20/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshitasrivastava20/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 ## Union-Find
 |  |
 | ------- |
