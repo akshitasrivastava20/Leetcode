@@ -1,16 +1,14 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer,Integer> mp=new HashMap<>();
-        for(Integer i:nums){
-            mp.put(i,mp.getOrDefault(i,0)+1);
-        }
-        int j=0;
-       for(Integer i:mp.keySet()){
-          nums[j]=i;
-          j++;
-       }
-       Arrays.sort(nums,0,j);
-       return mp.size();
+        int i=0;int j=1;
+        while(j<nums.length){
+             if(nums[j]!=nums[j-1]) 
+             {
+                nums[++i]=nums[j];
 
+             }
+             j++;
+        }
+        return i+1;
     }
 }
