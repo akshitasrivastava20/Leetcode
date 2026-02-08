@@ -28,9 +28,9 @@ class Solution {
                 if(curr.left!=null) que.offer(curr.left);
                 if(curr.right!=null) que.offer(curr.right);
             }
-            result.add(lst);
+            result.add(0,lst);
         }
-        Collections.reverse(result);
+       
         return result;
     }
 }
