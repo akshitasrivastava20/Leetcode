@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitasrivastava20/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/akshitasrivastava20/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/akshitasrivastava20/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/akshitasrivastava20/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/akshitasrivastava20/Leetcode/tree/master/0071-simplify-path) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitasrivastava20/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/akshitasrivastava20/Leetcode/tree/master/0155-min-stack) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitasrivastava20/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitasrivastava20/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitasrivastava20/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitasrivastava20/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0226-invert-binary-tree) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/akshitasrivastava20/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/akshitasrivastava20/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0226-invert-binary-tree) |
