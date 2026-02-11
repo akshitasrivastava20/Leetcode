@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3270-find-the-key-of-the-numbers](https://github.com/akshitasrivastava20/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/3280-convert-date-to-binary) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshitasrivastava20/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -492,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Game Theory
+|  |
+| ------- |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 <!---LeetCode Topics End-->
