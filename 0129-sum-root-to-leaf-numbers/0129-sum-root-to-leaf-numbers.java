@@ -14,34 +14,17 @@
  * }
  */
 class Solution {
-    List<List<Integer>> ans = new ArrayList<>();
-
     public int sumNumbers(TreeNode root) {
-        int sum=0;
-        List<Integer> lst=new ArrayList<>();
-        getList(root,lst);
-        for(List<Integer> row:ans){
-            int number=0;
-            for(Integer num:row){
-                number=number*10+num;
-           }
-           sum+=number;
-        }
-        return sum;
+          return helper(root,0);
+
     }
-
-    private void getList(TreeNode node,List<Integer> lst){
-        if(node==null) return ;
-
-        lst.add(node.val);
+    private int helper(TreeNode node,int num){
+        if(node==null) return 0;
+        num=num*10+node.val;
         if(node.left==null&&node.right==null){
-            ans.add(new ArrayList<>(lst));
+           return num;
         }
-        getList(node.left,lst);
-        
-        getList(node.right,lst);
+        return helper(node.left,num)+helper(node.right,num);
 
-        lst.remove(lst.size()-1);
-        
     }
 }
