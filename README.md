@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/akshitasrivastava20/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akshitasrivastava20/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/akshitasrivastava20/Leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/akshitasrivastava20/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/akshitasrivastava20/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/akshitasrivastava20/Leetcode/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/akshitasrivastava20/Leetcode/tree/master/0289-game-of-life) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/akshitasrivastava20/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/akshitasrivastava20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitasrivastava20/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0189-rotate-array) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 ## Randomized
