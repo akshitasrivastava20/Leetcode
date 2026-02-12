@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0392-is-subsequence](https://github.com/akshitasrivastava20/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Memoization
 |  |
 | ------- |
