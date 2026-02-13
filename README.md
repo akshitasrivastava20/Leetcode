@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/akshitasrivastava20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/akshitasrivastava20/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/akshitasrivastava20/Leetcode/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/akshitasrivastava20/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/akshitasrivastava20/Leetcode/tree/master/0162-find-peak-element) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 ## Randomized
