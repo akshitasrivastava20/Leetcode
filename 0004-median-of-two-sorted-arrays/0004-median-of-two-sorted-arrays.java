@@ -1,36 +1,40 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int m=nums1.length;
-        int n=nums2.length;
-        int[] ans=new int[m+n];
-        int i=0;int j=0;int k=0;
-        while(i<m&&j<n){
-            if(nums1[i]<=nums2[j]){
-              ans[k]=nums1[i];
-              i++;k++;
+        int[] nums = new int[nums1.length + nums2.length];
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        while (i < nums1.length && j < nums2.length) {
+            if (nums1[i] <= nums2[j]) {
+                nums[k] = nums1[i];
+                i++;
+                k++;
             }
             else{
-              ans[k]=nums2[j];
-              j++;k++;
+                nums[k] = nums2[j];
+                j++;
+                k++;
             }
+
         }
-        while(i<m){
-            ans[k]=nums1[i];
-            i++;k++;
+        while(i<nums1.length){
+             nums[k] = nums1[i];
+                i++;
+                k++;
         }
-        while(j<n){
-            ans[k]=nums2[j];
-            j++;k++;
+        while(j<nums2.length){
+            nums[k] = nums2[j];
+                j++;
+                k++;
         }
-        int l=ans.length;
-        if(l%2!=0){
-            int pos=l/2;
-            return ans[pos];
+        int n=nums.length;
+        if(n%2!=0){
+            return nums[n/2];
         }
         else{
-            int pos1=l/2;
-            double avg=(ans[pos1]+ans[pos1-1])/2.0;
-            return avg;
+            int a=nums[n/2];
+            int b=nums[(n/2)-1];
+            return (a+b)/2.0;
         }
     }
 }
