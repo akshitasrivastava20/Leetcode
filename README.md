@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/akshitasrivastava20/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1991-find-the-middle-index-in-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshitasrivastava20/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [3285-find-indices-of-stable-mountains](https://github.com/akshitasrivastava20/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshitasrivastava20/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akshitasrivastava20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
