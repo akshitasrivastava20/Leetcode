@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akshitasrivastava20/Leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/akshitasrivastava20/Leetcode/tree/master/0742-to-lower-case) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/akshitasrivastava20/Leetcode/tree/master/0290-word-pattern) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshitasrivastava20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
