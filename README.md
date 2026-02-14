@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/akshitasrivastava20/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/akshitasrivastava20/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Monotonic Stack
 |  |
