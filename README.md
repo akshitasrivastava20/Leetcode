@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/akshitasrivastava20/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akshitasrivastava20/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/akshitasrivastava20/Leetcode/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/akshitasrivastava20/Leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/akshitasrivastava20/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/akshitasrivastava20/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
