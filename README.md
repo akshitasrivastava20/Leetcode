@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/akshitasrivastava20/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/akshitasrivastava20/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/akshitasrivastava20/Leetcode/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/akshitasrivastava20/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/akshitasrivastava20/Leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Randomized
