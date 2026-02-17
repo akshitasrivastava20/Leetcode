@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/akshitasrivastava20/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1970-sorting-the-sentence](https://github.com/akshitasrivastava20/Leetcode/tree/master/1970-sorting-the-sentence) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshitasrivastava20/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
 | [3280-convert-date-to-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/3280-convert-date-to-binary) |
 ## Sorting
 |  |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akshitasrivastava20/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3270-find-the-key-of-the-numbers](https://github.com/akshitasrivastava20/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshitasrivastava20/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -611,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshitasrivastava20/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
 <!---LeetCode Topics End-->
