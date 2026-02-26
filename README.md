@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshitasrivastava20/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/akshitasrivastava20/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/akshitasrivastava20/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
@@ -652,4 +656,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
