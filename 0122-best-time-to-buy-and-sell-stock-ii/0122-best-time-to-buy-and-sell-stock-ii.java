@@ -1,16 +1,13 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int s=0;int e=1;int sum=0;
-        while(e<prices.length){
-            if(prices[s]<prices[e]){
-                sum=sum+prices[e]-prices[s];
-                s=e;
+        //consider each day as selling day 
+        int profit = 0;
+        for (int i = 1; i < prices.length; i++) {
+            if (prices[i] > prices[i - 1]) {
+                profit += prices[i] - prices[i - 1];
+
             }
-            else{
-                s=e;
-            }
-            e++;
         }
-        return sum;
+        return profit;
     }
 }
