@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/akshitasrivastava20/Leetcode/tree/master/0742-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshitasrivastava20/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1768-merge-strings-alternately](https://github.com/akshitasrivastava20/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akshitasrivastava20/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1899-count-items-matching-a-rule](https://github.com/akshitasrivastava20/Leetcode/tree/master/1899-count-items-matching-a-rule) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/akshitasrivastava20/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
