@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akshitasrivastava20/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/akshitasrivastava20/Leetcode/tree/master/0742-to-lower-case) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/akshitasrivastava20/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/akshitasrivastava20/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/akshitasrivastava20/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Linked List
