@@ -1,31 +1,41 @@
 class MinStack {
-    Stack <Integer> t;
-    List<Integer> lst;
+    Stack<Integer> st1;//all values
+    Stack<Integer> st2;//track min
+    
 
     public MinStack() {
-        t=new Stack<>();
-        lst=new ArrayList<>();
+        st1=new Stack<>();
+        st2=new Stack<>();
+        
+        
     }
     
     public void push(int val) {
-        t.push(val);
-        lst.add(val);
+        st1.push(val);
+        if(st2.isEmpty()||val<=st2.peek()){
+            st2.push(val);
+        }
+
         
     }
     
     public void pop() {
-        t.pop();
-        lst.remove(lst.size()-1);
+        int t=st1.pop();
+        if(!st2.isEmpty()&&t==st2.peek()){
+            st2.pop();
+        }
         
     }
     
     public int top() {
-       return  t.peek();
-       
+        return (st1.isEmpty())?-1:st1.peek();
+        
     }
     
     public int getMin() {
-        return Collections.min(lst);
+         return (st2.isEmpty())?-1:st2.peek();
+
+        
     }
 }
 
