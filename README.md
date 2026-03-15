@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/akshitasrivastava20/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/akshitasrivastava20/Leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/akshitasrivastava20/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshitasrivastava20/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 ## Backtracking
