@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Union-Find
 |  |
