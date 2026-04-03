@@ -501,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/akshitasrivastava20/Leetcode/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/akshitasrivastava20/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
