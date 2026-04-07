@@ -1,10 +1,11 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        Arrays.sort(nums);
-        int result=0;
+        int a=0;
         for(int i:nums){
-            result^=i;
+            a=a^i;
+
         }
-        return result;
+        return a;
     }
+
 }
