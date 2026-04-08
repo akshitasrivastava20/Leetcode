@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshitasrivastava20/Leetcode/tree/master/0739-daily-temperatures) |
+| [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/akshitasrivastava20/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/akshitasrivastava20/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/akshitasrivastava20/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/akshitasrivastava20/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/akshitasrivastava20/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -544,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/akshitasrivastava20/Leetcode/tree/master/0289-game-of-life) |
+| [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/akshitasrivastava20/Leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Randomized
