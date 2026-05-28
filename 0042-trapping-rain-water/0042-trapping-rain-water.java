@@ -1,25 +1,26 @@
 class Solution {
     public int trap(int[] height) {
-        int n=height.length;
-        int[] lmax= new int[height.length];
-        lmax[0]=0;
-        int[] rmax= new int[height.length];
-        rmax[n-1]=0;
-        int[] ans= new int[height.length];
-        int sum=0;
+        int[] l=new int[height.length];
+        int[] r=new int[height.length];
+        int area=0;
 
+        int lmax=height[0];
+        l[0]=0;
         for(int i=1;i<height.length;i++){
-            lmax[i]=Math.max(height[i-1],lmax[i-1]);
-            
+            l[i]=lmax;
+            lmax=Math.max(lmax,height[i]);
         }
-        for(int i=n-2;i>=0;i--){
-            rmax[i]=Math.max(height[i+1],rmax[i+1]);
-            
+        r[height.length-1]=0;
+        int rmax=height[height.length-1];
+         for(int i=height.length-2;i>=0;i--){
+            r[i]=rmax;
+            rmax=Math.max(rmax,height[i]);
         }
         for(int i=0;i<height.length;i++){
-            ans[i]=Math.min(lmax[i],rmax[i])-height[i];
-            if(ans[i]>0) sum+=ans[i];
+            if(height[i]<=Math.min(l[i],r[i])) area+=Math.min(l[i],r[i])-height[i];
+
         }
-        return sum;
+        return area;
+        
     }
 }
