@@ -1,34 +1,59 @@
 class Solution {
+
     public boolean checkInclusion(String s1, String s2) {
 
-        if(s1.length() > s2.length()) return false;
-
-        int[] hash = new int[26];
-        int[] window = new int[26];
-
-        int size = s1.length();
-
-        for(int i = 0; i < size; i++){
-            hash[s1.charAt(i) - 'a']++;
-            window[s2.charAt(i) - 'a']++;
+        if (s1.length() > s2.length()) {
+            return false;
         }
 
-        if(matches(hash, window)) return true;
+        int[] freq = new int[26];
+        int[] wfreq = new int[26];
 
-        for(int i = size; i < s2.length(); i++){
-            window[s2.charAt(i) - 'a']++;            // add new char
-            window[s2.charAt(i - size) - 'a']--;     // remove old char
+        // frequency of s1
+        for (int i = 0; i < s1.length(); i++) {
+            freq[s1.charAt(i) - 'a']++;
+        }
 
-            if(matches(hash, window)) return true;
+        int i = 0;
+        int j = s1.length() - 1;
+        int n = s2.length();
+
+        // first window
+        for (i = 0; i <= j; i++) {
+            wfreq[s2.charAt(i) - 'a']++;
+        }
+
+        if (matches(freq, wfreq)) {
+            return true;
+        }
+        i=0;
+
+        // sliding window
+        while (j < n - 1) {
+
+            wfreq[s2.charAt(i) - 'a']--;
+            i++;
+
+            j++;
+            wfreq[s2.charAt(j) - 'a']++;
+
+            if (matches(freq, wfreq)) {
+                return true;
+            }
         }
 
         return false;
     }
 
-    private boolean matches(int[] a, int[] b){
-        for(int i = 0; i < 26; i++){
-            if(a[i] != b[i]) return false;
+    private boolean matches(int[] arr1, int[] arr2) {
+
+        for (int i = 0; i < 26; i++) {
+
+            if (arr1[i] != arr2[i]) {
+                return false;
+            }
         }
+
         return true;
     }
 }
