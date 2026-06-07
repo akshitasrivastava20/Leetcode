@@ -13,15 +13,15 @@ public class Solution {
     public boolean hasCycle(ListNode head) {
         if(head==null||head.next==null) return false;
         ListNode s=head;
-        ListNode f=head.next;
-
-
-
+        ListNode f=head;
+        ListNode curr=head;
         while(f.next!=null&&f.next.next!=null){
             s=s.next;
             f=f.next.next;
-            if(s==f) return true;
+            if(f==s) return true;
         }
+        
         return false;
+
     }
 }
