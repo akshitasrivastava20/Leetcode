@@ -10,55 +10,40 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        ListNode mid=middle(head);
-        ListNode secondhead=reverse(mid.next);
-        mid.next=null;
-        ListNode firsthead=head;
-        ListNode temp;
-        
+        ListNode middle=middle(head);
+        ListNode reverse=reverse(middle.next);
+        middle.next=null;
+        ListNode first=head;
+        ListNode second=reverse;
+        while(second!=null){
+            ListNode temp1=first.next;
+            ListNode temp2=second.next;
 
-        while(firsthead!=null && secondhead!=null){
-            temp=firsthead.next;
-            firsthead.next=secondhead;
-            firsthead=temp;
-             temp=secondhead.next;
-            secondhead.next=firsthead;
-            secondhead=temp;
+            first.next=second;
+            second.next=temp1;
+
+            first=temp1;
+            second=temp2;
         }
-
-
-        
     }
-      public ListNode middle(ListNode head){
-        if(head==null) return head;
-        ListNode s=head;
-        ListNode f=head;
-        while(f != null && f.next != null)
-{
-            s=s.next;
-            f=f.next.next;
-
-
-        }
-        return s;
-    }
-    public ListNode reverse(ListNode head){
-        if(head==null) return head;
+    private ListNode  reverse(ListNode head){
         ListNode prev=null;
-        ListNode pres=head;
-        ListNode nex=head.next;
-
-        while(pres!=null){
-            pres.next=prev;
-            prev=pres;
-            pres=nex;
-            if(nex!=null){
-                nex=nex.next;
-            }
-
+        ListNode curr=head;
+        while(curr!=null){
+            ListNode Next=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=Next;
         }
         return prev;
-
-
+    }
+    private ListNode middle(ListNode head){
+        ListNode s=head;
+        ListNode f=head;
+        while(f!=null&&f.next!=null){
+            s=s.next;
+            f=f.next.next;
+        }
+        return s;
     }
 }
