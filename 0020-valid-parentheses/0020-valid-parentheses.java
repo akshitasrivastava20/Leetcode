@@ -6,16 +6,16 @@ class Solution {
                 st.push(ch);
             }
             else{
-                if(st.isEmpty()) return false;
-                else if(ch==')'&&st.peek()=='(') st.pop();
-                else if(ch=='}'&&st.peek()=='{') st.pop();
-                else if(ch==']'&&st.peek()=='[') st.pop();
-                else return false;
+                
+                if(!st.isEmpty()&&ch==')'&&st.peek()=='(') st.pop();
+                else if(!st.isEmpty()&&ch=='}'&&st.peek()=='{') st.pop();
+                else if(!st.isEmpty()&&ch==']'&&st.peek()=='[') st.pop();
+                else st.push(ch);
+
             }
-            
-            
+
         }
-        if(st.isEmpty())return true;
-        return false;
+        return st.isEmpty();
+        
     }
 }
