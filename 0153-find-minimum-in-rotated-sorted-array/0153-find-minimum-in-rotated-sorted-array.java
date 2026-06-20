@@ -1,13 +1,13 @@
 class Solution {
     public int findMin(int[] nums) {
-        //find pivot which will be the min 
-        int l=0;int h=nums.length-1;int pivot;
-        while(l<h){
-            int mid=l+(h-l)/2;
-            if(nums[mid]>nums[h]) l=mid+1;
-            else h=mid;
+        int s=0;
+        int e=nums.length-1;
+        while(s<e){
+            int mid=s+(e-s)/2;
+            if(nums[mid]>nums[e]) s=mid+1;
+            else e=mid;
         }
-        pivot=l;
-        return nums[pivot];
+        return nums[s];
+        
     }
 }
