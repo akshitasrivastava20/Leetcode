@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/akshitasrivastava20/Leetcode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2965-find-missing-and-repeated-values](https://github.com/akshitasrivastava20/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3285-find-indices-of-stable-mountains](https://github.com/akshitasrivastava20/Leetcode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshitasrivastava20/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshitasrivastava20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/akshitasrivastava20/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/akshitasrivastava20/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3270-find-the-key-of-the-numbers](https://github.com/akshitasrivastava20/Leetcode/tree/master/3270-find-the-key-of-the-numbers) |
 | [3280-convert-date-to-binary](https://github.com/akshitasrivastava20/Leetcode/tree/master/3280-convert-date-to-binary) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
+| [2965-find-missing-and-repeated-values](https://github.com/akshitasrivastava20/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/akshitasrivastava20/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Sliding Window
@@ -565,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/akshitasrivastava20/Leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/akshitasrivastava20/Leetcode/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/akshitasrivastava20/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
