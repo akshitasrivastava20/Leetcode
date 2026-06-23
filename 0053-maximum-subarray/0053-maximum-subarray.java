@@ -9,7 +9,7 @@ class Solution {
             if(sum<0)
              {
                 sum=0;
-                i=j+1;
+                
             }
             j++;
         }
