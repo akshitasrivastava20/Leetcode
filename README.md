@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/akshitasrivastava20/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/akshitasrivastava20/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/akshitasrivastava20/Leetcode/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/akshitasrivastava20/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/akshitasrivastava20/Leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/akshitasrivastava20/Leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/akshitasrivastava20/Leetcode/tree/master/0706-design-hashmap) |
