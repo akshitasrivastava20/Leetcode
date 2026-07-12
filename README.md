@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1037-valid-boomerang](https://github.com/akshitasrivastava20/Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/akshitasrivastava20/Leetcode/tree/master/1046-last-stone-weight) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0598-range-addition-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0598-range-addition-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/akshitasrivastava20/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+| [1037-valid-boomerang](https://github.com/akshitasrivastava20/Leetcode/tree/master/1037-valid-boomerang) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshitasrivastava20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
@@ -885,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/akshitasrivastava20/Leetcode/tree/master/0204-count-primes) |
+## Geometry
+|  |
+| ------- |
+| [1037-valid-boomerang](https://github.com/akshitasrivastava20/Leetcode/tree/master/1037-valid-boomerang) |
 <!---LeetCode Topics End-->
