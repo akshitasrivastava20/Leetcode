@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Matrix
 |  |
@@ -773,6 +774,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/akshitasrivastava20/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -828,6 +830,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0563-binary-tree-tilt](https://github.com/akshitasrivastava20/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -836,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/akshitasrivastava20/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/akshitasrivastava20/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Game Theory
 |  |
 | ------- |
