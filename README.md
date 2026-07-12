@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/akshitasrivastava20/Leetcode/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1694-reformat-phone-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1694-reformat-phone-number) |
 | [1768-merge-strings-alternately](https://github.com/akshitasrivastava20/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akshitasrivastava20/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
