@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/akshitasrivastava20/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/akshitasrivastava20/Leetcode/tree/master/1652-defuse-the-bomb) |
+| [1720-decode-xored-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1720-decode-xored-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1899-count-items-matching-a-rule](https://github.com/akshitasrivastava20/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -700,6 +701,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/akshitasrivastava20/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/1720-decode-xored-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/akshitasrivastava20/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Randomized
 |  |
