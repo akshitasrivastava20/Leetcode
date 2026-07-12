@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/akshitasrivastava20/Leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/akshitasrivastava20/Leetcode/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/akshitasrivastava20/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/akshitasrivastava20/Leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/akshitasrivastava20/Leetcode/tree/master/0575-distribute-candies) |
 | [0622-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0622-design-circular-queue) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitasrivastava20/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitasrivastava20/Leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/akshitasrivastava20/Leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/akshitasrivastava20/Leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/akshitasrivastava20/Leetcode/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/akshitasrivastava20/Leetcode/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/akshitasrivastava20/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/akshitasrivastava20/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/akshitasrivastava20/Leetcode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshitasrivastava20/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/akshitasrivastava20/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
