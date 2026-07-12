@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/akshitasrivastava20/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1037-valid-boomerang](https://github.com/akshitasrivastava20/Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/akshitasrivastava20/Leetcode/tree/master/1046-last-stone-weight) |
+| [1051-height-checker](https://github.com/akshitasrivastava20/Leetcode/tree/master/1051-height-checker) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/akshitasrivastava20/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/akshitasrivastava20/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1970-sorting-the-sentence](https://github.com/akshitasrivastava20/Leetcode/tree/master/1970-sorting-the-sentence) |
 ## Counting
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/akshitasrivastava20/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0912-sort-an-array) |
 | [0948-sort-an-array](https://github.com/akshitasrivastava20/Leetcode/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/akshitasrivastava20/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
