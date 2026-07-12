@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/akshitasrivastava20/Leetcode/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/akshitasrivastava20/Leetcode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/akshitasrivastava20/Leetcode/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/akshitasrivastava20/Leetcode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/akshitasrivastava20/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/akshitasrivastava20/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/akshitasrivastava20/Leetcode/tree/master/0942-di-string-match) |
 | [1002-find-common-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1768-merge-strings-alternately](https://github.com/akshitasrivastava20/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/akshitasrivastava20/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/akshitasrivastava20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/akshitasrivastava20/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/akshitasrivastava20/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/akshitasrivastava20/Leetcode/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/akshitasrivastava20/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0895-maximum-frequency-stack](https://github.com/akshitasrivastava20/Leetcode/tree/master/0895-maximum-frequency-stack) |
 | [1002-find-common-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1002-find-common-characters) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/akshitasrivastava20/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/akshitasrivastava20/Leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/akshitasrivastava20/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2514-count-anagrams](https://github.com/akshitasrivastava20/Leetcode/tree/master/2514-count-anagrams) |
