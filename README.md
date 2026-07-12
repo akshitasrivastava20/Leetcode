@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/akshitasrivastava20/Leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/akshitasrivastava20/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/akshitasrivastava20/Leetcode/tree/master/0739-daily-temperatures) |
+| [0766-toeplitz-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [0860-design-circular-queue](https://github.com/akshitasrivastava20/Leetcode/tree/master/0860-design-circular-queue) |
 | [0875-koko-eating-bananas](https://github.com/akshitasrivastava20/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -622,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/akshitasrivastava20/Leetcode/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/akshitasrivastava20/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0766-toeplitz-matrix](https://github.com/akshitasrivastava20/Leetcode/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/akshitasrivastava20/Leetcode/tree/master/0832-flipping-an-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/akshitasrivastava20/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
