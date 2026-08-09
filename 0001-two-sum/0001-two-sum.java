@@ -6,7 +6,6 @@ class Solution {
                 return new int[]{i,mp.get(target-nums[i])};
             }
             mp.put(nums[i],i);
-
         }
         return new int[]{-1,-1};
         
