@@ -4,18 +4,17 @@ class Solution {
         for(int i:nums){
             arr[i]++;
         }
-       
-       int idx=0;
-       int i=0;
-       while(i<3){
-         while(arr[i]!=0){
-            nums[idx++]=i;
-            arr[i]--;
-         }
-         i++;
-       }
 
-       
+        int i=0;int j=0;
+        while(j<nums.length){
+            while(arr[i]!=0){
+                nums[j++]=i;
+                arr[i]--;
+
+            }
+            i++;
+        }
+
         
     }
 }
